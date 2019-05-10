@@ -1,3 +1,4 @@
+[![Build Status](https://bdausseschefio.visualstudio.com/Test%20project/_apis/build/status/bdausses.pipelines-java?branchName=master)](https://bdausseschefio.visualstudio.com/Test%20project/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
